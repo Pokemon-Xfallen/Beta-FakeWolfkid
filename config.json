@@ -1,7 +1,5 @@
 
 {
-  "__NOTICE:": "Copy this to config.json and edit your details",
-  
   "prefix": "b;",
   
   "mainguild": "The guild's id this bot has been installed for",
